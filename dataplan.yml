@@ -1,0 +1,11 @@
+---
+name: dataplan
+project_root: "/home/alex.irvine/Proj/PrimaVeraWS"
+windows:
+  - make:
+      layout: 4ff1,379x75,0,0{189x75,0,0,0,189x75,190,0[189x37,190,0,1,189x37,190,38{94x37,190,38,2,94x37,285,38,3}]}
+      panes:
+        - make dev
+        - lzg
+        - make connect
+        - make connect

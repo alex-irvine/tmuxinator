@@ -1,0 +1,9 @@
+---
+name: fleetinfra
+project_root: "/home/alex.irvine/Proj/k8s-fleet-infra"
+windows:
+  - nvim:
+      layout: 99ff,379x75,0,0{189x75,0,0,0,189x75,190,0,1}
+      panes:
+        - nvim
+        - lzg
