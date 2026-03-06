@@ -1,0 +1,9 @@
+---
+name: tmuxinatorsetup
+project_root: "/home/alex.irvine/.config/tmuxinator"
+windows:
+  - tmuxinatorsetup:
+      layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
+      panes:
+        - nvim
+        - lzg

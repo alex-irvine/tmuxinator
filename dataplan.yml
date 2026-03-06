@@ -2,10 +2,17 @@
 name: dataplan
 project_root: "/home/alex.irvine/Proj/PrimaVeraWS"
 windows:
-  - make:
-      layout: 4ff1,379x75,0,0{189x75,0,0,0,189x75,190,0[189x37,190,0,1,189x37,190,38{94x37,190,38,2,94x37,285,38,3}]}
+  - dataplandev:
+      layout: b9a5,379x75,0,0{189x75,0,0,18,189x75,190,0[189x38,190,0,19,189x36,190,39{97x36,190,39,20,91x36,288,39[91x18,288,39,21,91x17,288,58,31]}]}
       panes:
         - make dev
         - lzg
+        - make copilot
+        - make connect
+        - make connect
+  - dataplantest:
+      root: "/home/alex.irvine/Proj/PrimaVeraWS/Tests/UnitTests"
+      layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
+      panes:
         - make connect
         - make connect

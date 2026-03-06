@@ -1,0 +1,9 @@
+---
+name: nvimsetup
+project_root: "/home/alex.irvine/.config/nvim"
+windows:
+  - zsh:
+      layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
+      panes:
+        - nvim
+        - lzg
