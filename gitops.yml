@@ -2,7 +2,7 @@
 name: gitops
 project_root: "/home/alex.irvine/Proj/k8s-fleet-infra"
 windows:
-  - zsh:
+  - gitops:
       layout: 189x75,0,0,33,189x75,190,0[189x37,190,0,39,189x37,190,38,40]{189x75,0,0,33,189x75,190,0[189x37,190,0,39,189x37,190,38,40]}
       panes:
         - nvim
