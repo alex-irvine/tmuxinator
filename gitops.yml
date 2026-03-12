@@ -2,10 +2,15 @@
 name: gitops
 project_root: "/home/alex.irvine/Proj/k8s-fleet-infra"
 windows:
-  - gitops:
+  - dev:
       layout: 189x75,0,0,33,189x75,190,0[189x37,190,0,39,189x37,190,38,40]{189x75,0,0,33,189x75,190,0[189x37,190,0,39,189x37,190,38,40]}
       panes:
         - nvim
         - lzg
         - lzf
         - k9s
+  - copilot:
+      layout: 99ff,379x75,0,0{189x75,0,0,0,189x75,190,0,1}
+      panes:
+        - copilot
+        - lzg

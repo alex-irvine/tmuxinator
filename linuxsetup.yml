@@ -2,7 +2,7 @@
 name: linuxsetup
 project_root: "/home/alex.irvine/Proj/linux-setup"
 windows:
-  - tmuxinator:
+  - dev:
       layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
       panes:
         - nvim

@@ -2,7 +2,7 @@
 name: 1left2right
 project_root: "/home/alex.irvine/"
 windows:
-  - zsh:
+  - dev:
       layout: fd87,379x75,0,0{189x75,0,0,33,189x75,190,0[189x37,190,0,39,189x37,190,38,40]}
       panes:
         - cd /home/alex.irvine/
