@@ -8,19 +8,16 @@ windows:
         - make dev
         - lzg
   - test:
-      root: "/home/alex.irvine/Proj/PrimaVeraWS/Tests/UnitTests"
       layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
       panes:
         - make dev
         - make test
   - copilot:
-      root: "/home/alex.irvine/Proj/PrimaVeraWS/Tests/UnitTests"
       layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
       panes:
         - lzg
         - make copilot
   - server:
-      root: "/home/alex.irvine/Proj/PrimaVeraWS/Tests/UnitTests"
       layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
       panes:
         - make dotnetrun
