@@ -10,13 +10,13 @@ windows:
   - test:
       layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
       panes:
-        - make dev
+        - make nvim
         - make test
-  - copilot:
+  - claude:
       layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
       panes:
         - lzg
-        - make copilot
+        - make claude
   - server:
       layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
       panes:
