@@ -2,13 +2,6 @@
 name: lazyorc
 project_root: "/home/alex.irvine/Proj/lazyorc"
 windows:
-  - dev:
-      layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
-      panes:
-        - nvim
-        - lzg
-  - claude:
-      layout: 430c,379x75,0,0{189x75,0,0,45,189x75,190,0,47}
-      panes:
-        - claude
-        - lzg
+  - nvim: nvim
+  - lazygit: lzg
+  - lazyorc: lzo
