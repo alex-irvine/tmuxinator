@@ -1,0 +1,8 @@
+---
+name: system
+project_root: "/home/alex/"
+windows:
+  - btm: btm
+  - pulsemixer: pulsemixer
+  - nmtui: nmtui
+  - bluetuith: bluetuith
