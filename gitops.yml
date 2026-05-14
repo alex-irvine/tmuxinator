@@ -1,6 +1,6 @@
 ---
 name: gitops
-project_root: "/home/alex.irvine/Proj/k8s-fleet-infra"
+project_root: "/home/alex/Proj/k8s-fleet-infra"
 windows:
   - nvim: nvim
   - lazygit: lzg

@@ -1,6 +1,6 @@
 ---
 name: datavault
-project_root: "/home/alex.irvine/Proj/DataVault/"
+project_root: "/home/alex/Proj/DataVault/"
 windows:
   - nvim: nvim
   - lazygit: lzg

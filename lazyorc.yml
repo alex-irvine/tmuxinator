@@ -1,6 +1,6 @@
 ---
 name: lazyorc
-project_root: "/home/alex.irvine/Proj/lazyorc"
+project_root: "/home/alex/Proj/lazyorc"
 windows:
   - nvim: nvim
   - lazygit: lzg

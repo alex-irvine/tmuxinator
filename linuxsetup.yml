@@ -1,6 +1,6 @@
 ---
 name: linuxsetup
-project_root: "/home/alex.irvine/Proj/linux-setup"
+project_root: "/home/alex/Proj/linux-setup"
 windows:
   - nvim: nvim
   - lazygit: lzg

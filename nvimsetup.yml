@@ -1,6 +1,6 @@
 ---
 name: nvimsetup
-project_root: "/home/alex.irvine/.config/nvim"
+project_root: "/home/alex/.config/nvim"
 windows:
   - nvim: nvim
   - lazygit: lzg

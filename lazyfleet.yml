@@ -1,6 +1,6 @@
 ---
 name: lazyfleet
-project_root: "/home/alex.irvine/Proj/lazyfleet/"
+project_root: "/home/alex/Proj/lazyfleet/"
 windows:
   - nvim: nvim
   - lazygit: lzg

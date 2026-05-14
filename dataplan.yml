@@ -1,6 +1,6 @@
 ---
 name: dataplan
-project_root: "/home/alex.irvine/Proj/PrimaVeraWS"
+project_root: "/home/alex/Proj/PrimaVeraWS"
 windows:
   - nvim: make dev
   - lazygit: lzg

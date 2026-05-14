@@ -1,6 +1,6 @@
 ---
 name: tmuxinatorsetup
-project_root: "/home/alex.irvine/.config/tmuxinator"
+project_root: "/home/alex/.config/tmuxinator"
 windows:
   - nvim: nvim
   - lazygit: lzg
